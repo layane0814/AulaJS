@@ -1,4 +1,5 @@
 document.write("<h1>Aula 01 - Exercício 3</h1>");
+document.write("<h3>Calculo para valor de parcela</h3>");
 
 var valor = prompt("Digite o valor da prestação em atraso: ");
 var taxa = prompt("Digite a taxa de juros (em porcentagem): ");

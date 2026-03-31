@@ -1,5 +1,5 @@
 document.write("<h1>Aula 01 - Exercício 6</h1>");
-document.write("<h3>Calculo de área de um quadrado</h3>");
+document.write("<h3>Calculo de loja</h3>");
 
 var qua = prompt("Digite a quantidade do produto: ");
 var pp = prompt("Digite o preço do produto: ");

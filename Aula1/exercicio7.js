@@ -8,6 +8,6 @@ var a3 = prompt("Digite a nota do terceiro aluno: ");
 var s = Number(a1)+Number(a2)+Number(a3) ;
 var ma = Number(s)/3 ;
 
-document.write("<p>A média aritmética é: " +  s + "</p>");
+document.write("<p>A média aritmética é: " + ma + "</p>");
 
 
